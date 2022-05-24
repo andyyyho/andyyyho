@@ -1,5 +1,5 @@
 Hi, I’m @andyyyho
-I'm a fourth year Computer Science major at UCSB and I most of my development experience lies in full stack web development.
+I'm a fourth year Computer Science major at UCSB and most of my development experience lies in full stack web development.
 
 
 <!---
